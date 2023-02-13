@@ -1,7 +1,7 @@
 # Desafio HTML| CSS Básico
 
 <p align="center">
-<img width="250px" src="https://i.imgur.com/WVuQg2N.png"/>
+<img width="84px" src="https://i.imgur.com/WVuQg2N.png"/>
 <h2 align="center">Landing Page Serviços de Inteligência Artificial</h2>
 <p align="center"> Desafio de HTML e CSS Avançado do DevQuest. Projeto do FrontEnd Mentor - Huddle Landing Page <br> <br>
 <img align="center" src="https://i.imgur.com/2MvpNC3.gif" width="800"> 
