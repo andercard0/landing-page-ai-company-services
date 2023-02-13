@@ -1,4 +1,4 @@
-# Desafio HTML | CSS Básico
+# Landing Page HTML | CSS Básico
 
 <p align="center">
 <img width="84px" src="https://i.imgur.com/WVuQg2N.png"/>
