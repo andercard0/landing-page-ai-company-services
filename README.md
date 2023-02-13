@@ -3,7 +3,7 @@
 <p align="center">
 <img width="84px" src="https://i.imgur.com/WVuQg2N.png"/>
 <h2 align="center">Landing Page: Serviços de Inteligência Artificial</h2>
-<img align="center" src="https://i.imgur.com/olATvox.mp4" width="256"> 
+<img align="center" src="https://i.imgur.com/olATvox.gif" width="800"> 
 
 <h2 align="center"> Tecnologias utilizadas 💻</h2>
 <div align="center" style="display: inline_block">
